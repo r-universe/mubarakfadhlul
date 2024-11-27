@@ -5,6 +5,9 @@
 [submodule "PODES"]
 	path = PODES
 	url = https://github.com/cran/PODES
+[submodule "SUSENAS"]
+	path = SUSENAS
+	url = https://github.com/cran/SUSENAS
 [submodule "hosm"]
 	path = hosm
 	url = https://github.com/mubarakfadhlul/hosm
