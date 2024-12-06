@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GOLDprice"]
+	path = GOLDprice
+	url = https://github.com/cran/GOLDprice
 [submodule "PODES"]
 	path = PODES
 	url = https://github.com/cran/PODES
