@@ -5,6 +5,12 @@
 [submodule "GOLDprice"]
 	path = GOLDprice
 	url = https://github.com/cran/GOLDprice
+[submodule "K4PrestasiSiswa"]
+	path = K4PrestasiSiswa
+	url = https://github.com/cran/K4PrestasiSiswa
+[submodule "K4ProsesSiswa"]
+	path = K4ProsesSiswa
+	url = https://github.com/cran/K4ProsesSiswa
 [submodule "K4Sekolah"]
 	path = K4Sekolah
 	url = https://github.com/cran/K4Sekolah
