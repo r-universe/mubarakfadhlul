@@ -8,9 +8,15 @@
 [submodule "K4ProsesSiswa"]
 	path = K4ProsesSiswa
 	url = https://github.com/cran/K4ProsesSiswa
+[submodule "K4Rumah"]
+	path = K4Rumah
+	url = https://github.com/cran/K4Rumah
 [submodule "K4Sekolah"]
 	path = K4Sekolah
 	url = https://github.com/cran/K4Sekolah
+[submodule "K4Siswa"]
+	path = K4Siswa
+	url = https://github.com/cran/K4Siswa
 [submodule "SAKERNAS"]
 	path = SAKERNAS
 	url = https://github.com/cran/SAKERNAS
