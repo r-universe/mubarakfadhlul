@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BUSfinancial"]
+	path = BUSfinancial
+	url = https://github.com/cran/BUSfinancial
+[submodule "K4Guru"]
+	path = K4Guru
+	url = https://github.com/cran/K4Guru
 [submodule "K4PrestasiSiswa"]
 	path = K4PrestasiSiswa
 	url = https://github.com/cran/K4PrestasiSiswa
